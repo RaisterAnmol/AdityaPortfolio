@@ -1,0 +1,6 @@
+export const OPEN_WINDOW = 'OPEN_WINDOW';
+export const CLOSE_WINDOW = 'CLOSE_WINDOW';
+export const MINIMIZE_WINDOW = 'MINIMIZE_WINDOW';
+export const MAXIMIZE_WINDOW = 'MAXIMIZE_WINDOW';
+export const FOCUS_WINDOW = 'FOCUS_WINDOW';
+export const MINIMIZE_ALL = 'MINIMIZE_ALL';
